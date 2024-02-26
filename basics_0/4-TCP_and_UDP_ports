@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# affiche les ports d'écoute. -l : les sockets en écoute. -p : affiche le PID et le nom du programme auquel appartient chaque socket
+netstat -lp
